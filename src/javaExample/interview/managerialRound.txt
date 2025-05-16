@@ -1,0 +1,34 @@
+My role is to estimate the requirement deadline and creating the design and then propose the solution to manager  
+
+Managerial interview question :- 
+https://www.youtube.com/watch?v=C1PUw4d0O9M
+
+My role was to estimate the development deadline and creating the design for the flow 
+and then propose the solution to manager. Also I was Responsible for supporting the live prod env and 
+fixing the bugs in the application. 
+
+
+We used the Angular stuff for front and end backend we used 
+the microservices using sprinboot + apache camel framework.
+
+Every client wants the full proof of concept. We can create the small POT for them and we can show it them.
+
+The portal was built it using cordys techologies and we migrated the project into newer technologies.
+
+
+I am always interested in to work with new team and client, healthcare domain, 
+I would to like part of this company where i can learn from this domain and also intrested to 
+apply my skill into this domain. 
+
+
+1) Requirement analysis,
+2) System Design,
+3) Implementation,
+4) Testing,
+5) Deployment,
+6) Maintainance
+
+
+Culture fit - interview question
+
+STAR - STAR --

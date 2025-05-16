@@ -1,0 +1,63 @@
+
+
+class EmptyClass{
+
+
+
+}
+
+Set<EmptyClass> set = new HashSet<>();
+set.addAll(new EmptyClass();, new EmptyClass(););
+
+
+
+POST URL = http://localhost.8080/emp
+
+
+{
+"id" : "1",
+"name" : "akash",
+"phoneNumber" : "1287719832"
+}
+
+DELETE URL = http://localhost.8080/emp/1
+
+
+id, name, gender, age, salary
+1, user1, male, 25, 5k
+2, user2, female, 30, 15k
+3, user3, female, 35, 10k
+
+
+
+1. Come up with the code for the following functions.
+ 
+
+Problem statement :
+ 
+
+We have a website for which the plan is to integrate analytics. 
+The Requirement is a long list of functions out of which the first two has been presented to us  
+ 
+As a background,  
+OneTimeVisitor - A website visitor who just logs in to the website just once. 
+RecurrentVisitor - A website visitor who visits the website twice.   
+ 
+Each visitor has a unique Identifier.
+ 
+As a software Engineer start simple with writing Functions for the following
+ 
+1. PostVisitorstoTheWebsite() - records the visitors to the website.
+ 
+2. GetFirstOneTimeVisitorsOfTheWebsite - returns the first one time visitor at the time of calling this function.
+ 
+ amit bhagra, iris
+ 
+ Rajiv Ranjan, HCL
+
+
+
+
+
+
+
