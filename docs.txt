@@ -1,11 +1,1 @@
 # docs information
-# welcome to the world
-# Hello World..!
-# Hi there
-# WHere are you
-# I am in pune
-# okay
-# Learn git
-# learning git
-# systems plus company
-# adding few commit
